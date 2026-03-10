@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rick and Morty App</string>
+    <string name="error_generic">Something went wrong. Please try again later.</string>
+    <string name="error_network">No internet connection. Please check your network.</string>
+    <string name="error_load_more">Couldn\'t load more characters.</string>
+    <string name="characters_screen_title">Rick and Morty Characters</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="empty_list">No characters found.</string>
+    <string name="end_of_list">You\'ve reached the end of the multiverse!</string>
+</resources>
