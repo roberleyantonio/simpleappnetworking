@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+# IntelliJ IDEA
+.idea/
+out/
+gen/
+
+# Build folder
+build/
+
+# Kotlin
+.kotlin/
